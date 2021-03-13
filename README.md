@@ -9,8 +9,6 @@
   <b>Brazil</b>.
 </p>
 
-<br/>
-
 ### Talking about Personal Stuffs
 
 - 👨‍💻 I'm mater's student at the Federal University of Ceará;
@@ -72,17 +70,11 @@
 <code><img height="32" src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" alt="Jira"/></code>
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/trello-6-569395.png" alt="Trello"/></code>
 
-<br/>
-
 ## Coding Activity
-
-<br/>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AugustoCam95&show_icons=true&theme=dracula" alt="AugustoCam95's github stats" />
 </p>
-
-<br/>
 
 <p align="right">
   <a href="#">

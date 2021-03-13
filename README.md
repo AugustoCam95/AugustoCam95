@@ -42,7 +42,7 @@
 
 **Back-End**
 
-<code><img height="32" src="https://miro.medium.com/max/480/1*Wpeac8GYxcU02Sr2DPo6uw.png" alt="Flask"/></code>
+<code><img height="32" src="https://www.clipartkey.com/mpngs/m/145-1450089_python-flask-icon.png" alt="Flask"/></code>
 
 **Front-End**
 

@@ -1,6 +1,6 @@
 # Hi, nice to meet you! <img width="30" src="https://media.giphy.com/media/U8AO7mEDhELhtvq71d/giphy.gif" alt="Beach emoji" />
 
-<img align="right" width="40%" src="https://media.giphy.com/media/4H3Ii5eLChYul9p7NL/giphy.gif" alt="Code in high resolution" />
+<img align="right" width="40%" src="https://media.giphy.com/media/ko7twHhomhk8E/giphy.gif" alt="Code in high resolution" />
 
 ### Welcome to my page!
 <p>

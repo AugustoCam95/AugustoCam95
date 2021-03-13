@@ -42,7 +42,7 @@
 
 **Back-End**
 
-<code><img height="32" src="https://mpng.subpng.com/20180809/hvf/kisspng-flask-by-example-web-framework-python-bottle-sebastian-estenssoro-5b6c0aa33b3b57.9170119715338072672426.jpg" alt="Flask"/></code>
+<code><img height="32" src="https://seeklogo.com/images/F/flask-logo-44C507ABB7-seeklogo.com.png" alt="Flask"/></code>
 
 **Front-End**
 

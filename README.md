@@ -42,7 +42,7 @@
 
 **Back-End**
 
-<code><img height="32" src="https://seeklogo.com/images/F/flask-logo-44C507ABB7-seeklogo.com.png" alt="Flask"/></code>
+<code><img height="32" src="https://miro.medium.com/max/480/1*Wpeac8GYxcU02Sr2DPo6uw.png" alt="Flask"/></code>
 
 **Front-End**
 

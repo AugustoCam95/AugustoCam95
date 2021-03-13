@@ -1,8 +1,7 @@
-# Hi, nice to meet you! <img width="30" src="https://media.giphy.com/media/U8AO7mEDhELhtvq71d/giphy.gif" alt="Beach emoji" />
+# Hi, welcome to my page! <img width="30" src="https://media.giphy.com/media/U8AO7mEDhELhtvq71d/giphy.gif" alt="Beach emoji" />
 
 <img align="right" width="40%" src="https://media.giphy.com/media/ko7twHhomhk8E/giphy.gif" alt="Code in high resolution" />
 
-### Welcome to my page!
 <p>
   I'm José Câmara, 26 years-old and from  
   <img width="16" src="https://www.flaticon.com/svg/static/icons/svg/197/197386.svg" alt="Brazil" />

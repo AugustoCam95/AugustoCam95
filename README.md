@@ -10,7 +10,7 @@
 
 ### Talking about Personal Stuffs
 
-- 👨‍💻 I'm mater's student at the Federal University of Ceará;
+- 👨‍💻 I'm master's student at the Federal University of Ceará;
 
 - 👨‍💻 I’m currently working on Dell Lead as a Full-Stacker Developer;
 

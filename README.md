@@ -3,8 +3,7 @@
 <img align="right" width="40%" src="https://media.giphy.com/media/ko7twHhomhk8E/giphy.gif" alt="Code in high resolution" />
 
 <p>
-  Born in Fortaleza/Ceará - <img width="16" src="https://www.flaticon.com/svg/static/icons/svg/197/197386.svg" alt="Brazil" />
-  <b>Brazil</b>, 26 years-old and an enthusiast of technology 
+  Born in Fortaleza/Ceará - 🇧🇷<b>Brazil</b>, technology enthusiast and forever student
   
 </p>
 
@@ -12,16 +11,16 @@
 
 - 👨‍💻 I'm master's student at the Federal University of Ceará;
 
-- 👨‍💻 I’m currently working on Dell Lead as a Full-Stacker Developer;
+- 👨‍💻 I’m currently working as a Full-Stacker Developer with Python, Jquery and Bootstrap;
 
-- 🌱 I’m currently learning Angular, Flask; 
+- 🌱 I’m currently learning Django, Docker, Shell, React; 
 
 - 💬 Ask me about anything, I am happy to help;
 
 ### Where to find me:
 
 <a href="https://www.linkedin.com/in/jos%C3%A9-c%C3%A2mara-912765a3/">
-  <code><img alt="My linkedin" width="28" src="https://www.flaticon.com/svg/static/icons/svg/1383/1383262.svg" /></code>
+  <code><img alt="My linkedin" width="28" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></code>
 </a>
 
 <a href="mailto:augustocam95@gmail.com">

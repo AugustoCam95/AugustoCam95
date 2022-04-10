@@ -20,7 +20,7 @@
 ### Where to find me:
 
 <a href="https://www.linkedin.com/in/jos%C3%A9-c%C3%A2mara-912765a3/">
-  <code><img alt="My linkedin" width="32" src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1649626633~hmac=72849f54b6efff414379a997b898cdbc" /></code>
+  <code><img alt="My linkedin" width="32" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" /></code>
 </a>
 
 <a href="mailto:augustocam95@gmail.com">

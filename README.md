@@ -20,11 +20,11 @@
 ### Where to find me:
 
 <a href="https://www.linkedin.com/in/jos%C3%A9-c%C3%A2mara-912765a3/">
-  <code><img alt="My linkedin" width="28" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></code>
+  <code><img alt="My linkedin" width="32" src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1649626633~hmac=72849f54b6efff414379a997b898cdbc" /></code>
 </a>
 
 <a href="mailto:augustocam95@gmail.com">
-  <code><img alt="My e-mail" width="32" src="https://www.flaticon.com/svg/static/icons/svg/324/324123.svg" /></code>
+  <code><img alt="My e-mail" width="32" src="https://www.flaticon.com/free-icon/gmail_5968534" /></code>
 </a>
 
 <br/><br/>

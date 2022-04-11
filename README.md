@@ -41,7 +41,10 @@
 
 **Back-End**
 
-<code><img height="32" src="https://pythonforundergradengineers.com/posts/zappa/images/flask_icon.png" alt="Flask"/></code>
+<code><img height="32" src="https://img.icons8.com/ios/344/flask.png" alt="Flask"/></code>
+<code><img height="32" src="https://img.icons8.com/color/344/django.png" alt="Django"/></code>
+<code><img height="32" src="https://img.icons8.com/color/344/nodejs.png" alt="Nodejs"/></code>
+<code><img height="32" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/nestjs_logo_icon_169927.png" alt="Nestjs"/></code>
 
 **Front-End**
 
@@ -55,6 +58,8 @@
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostegreSQL"/></code>
 <code><img height="32" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_plain_wordmark_logo_icon_146423.png" alt="MongoDB"/></code>
+<code><img height="32" src="https://img.icons8.com/color/344/microsoft-sql-server.png" alt="Microsoft Sql Server"/></code>
+
 
 **DevOps**
 
@@ -62,6 +67,7 @@
 <code><img height="32" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/44_Bitbucket_logo_logos-512.png" alt="Bitbucket"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="Docker"/></code>
+<code><img height="32" src="https://img.icons8.com/color/344/gitlab.png" alt="Gitlab"/></code>
 
 **Business Tools**
 

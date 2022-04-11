@@ -24,7 +24,7 @@
 </a>
 
 <a href="mailto:augustocam95@gmail.com">
-  <code><img alt="My e-mail" width="32" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" /></code>
+  <code><img alt="My e-mail" width="32" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" /></code>
 </a>
 
 <br/><br/>

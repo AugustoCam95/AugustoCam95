@@ -1,17 +1,17 @@
-# Hi, i'm José Câmara and welcome to my github page! <img width="30" src="https://media.giphy.com/media/U8AO7mEDhELhtvq71d/giphy.gif" alt="Beach emoji" />
-
+# Hi, i'm José Câmara and welcome to my github page! 
 <img align="right" width="40%" src="https://media.giphy.com/media/ko7twHhomhk8E/giphy.gif" alt="Code in high resolution" />
 
 <p>
-  Born in Fortaleza/Ceará - 🇧🇷<b>Brazil</b>, technology enthusiast and forever student
+  Born in Fortaleza/Ceará <img width="30" src="https://media.giphy.com/media/U8AO7mEDhELhtvq71d/giphy.gif" alt="Beach emoji" />
+ - 🇧🇷<b>Brazil</b>, technology enthusiast and forever student
   
 </p>
 
 ### Talking about Personal Stuffs
 
-- 👨‍💻 I'm master's student at the Federal University of Ceará;
+- 👨‍💻📚 I'm master's student at the Federal University of Ceará;
 
-- 👨‍💻 I’m currently working as a Full-Stacker Developer with Python, Jquery and Bootstrap;
+- 👨‍💻🤖 I’m currently working as a Full-Stacker Developer with Python, Jquery and Bootstrap;
 
 - 🌱 I’m currently learning Django, Docker, Shell, React; 
 
